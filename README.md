@@ -18,3 +18,17 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - [Linkedin](linkedin.com/in/caelinsutch/)
 - [Medium](medium.com/@caelinsutch)
 - [Twitter](twitter.com/caelin_sutch)
+
+**Some Projects I've Worked On**
+- [ARCC](https://arcc.ai/)
+- [ARCC League](https://league.arcc.ai/)
+- [ARCC Race](https://race.arcc.ai/)
+- [Bioseer](https://issuu.com/caelinsutch/docs/bioseer_tech_report)
+- [OSCR](https://opensourceforcivilrights.com/)
+- [COVID Digest](https://covid-digest.com/)
+- [Gatsby Markdown Typescript Starter](https://gatsby-typescript-markdown-starter.vercel.app/)
+- [Bobatime](https://bobati.me/)
+- [Tutorberry Website](https://tutorberry.vercel.app/)
+- [Dear Asian Youth Sac](https://dear-asian-youth-landing.vercel.app/)
+- [BLM Resources](https://caelinsutch.github.io/blm-resources/)
+- [DeepRacing.io](https://deepracing.io/)
