@@ -1,31 +1,31 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the MET program.
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/).
 
-- 🔭 I’m currently working on Bytes Robotics, an affordable and autonomous robotic system.
-- ✨ My side project is BobaTime, a social media app oriented around Boba
+- 🔭 I’m currently working on Satellitum, a product that helps robotics companies save money and time with prepackaged augmented autonomy
+- ✨ My favorite hobby is trying to balance too many things in my life
 - 💻 My favorite stack right now is JAM Stack with Gatsby
-- 🌱 I’m currently learning about mobile development in Flutter
+- 🌱 I’m currently learning about microservice server development and how to live on my own in college :)
 - 👯 I’m looking to collaborate on open source projects that benefit social causes
-- 💬 Ask me about the intersection of design and software
+- 💬 Ask me about the intersection of design and robotics
 - 📫 How to reach me: caelinsutch@gmail.com or caelinsutch.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I love photography! My website has examples of some of my work
+- ⚡ Fun fact: I love photography! My website has examples of some of my past work
 
 **Links**
-- [Personal Website](caelinsutch.com) - My creative work
-- [Blog](cometcode.io) - Articles on all sorts of things
+- [Personal Website](caelinsutch.com) - Portfolio of my creative work
+- [Medium](medium.com/@caelinsutch) - Social and technical commentary
+- [Blog](cometcode.io) - Tutorials and technical articles
 - [Linkedin](linkedin.com/in/caelinsutch/) - Learn more about me :)
-- [Medium](medium.com/@caelinsutch) - More writing!
 - [Twitter](twitter.com/caelin_sutch) - Various rants on software development and life
 
-**Current Projects at UC Berkeley**
-- [Underwater Robotics at Berkeley](https://urobotics.berkeley.edu/) - Underwater ROV and AUV Development
-- Metrobot - HRI Research
+**Current Clubs/Projects at UC Berkeley**
+- [Underwater Robotics at Berkeley](https://urobotics.berkeley.edu/) - Underwater autononmous robotics development
+- [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
 - [Robotics@Berkeley](https://rab.berkeley.edu/) - Various robotics projects
 - [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
-- MET Strategic Group - Business and Technical Consulting
-- Haas Undergrad Blog - Staff Writer
+- MET Strategic Group - Business and technical Consulting
+- [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
 
 **Some Projects I've Worked On**
 - [ARCC](https://arcc.ai/) - AI and ML Education for students using the AWS DeepRacer platform
@@ -35,6 +35,7 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - [OSCR](https://opensourceforcivilrights.com/) - Various resources and projects for open source projects that support civil rights causes
 - [COVID Digest](https://covid-digest.com/) - Automated COVID updates scraped, summarized, and delivered via text
 - [Gatsby Markdown Typescript Starter](https://gatsby-typescript-markdown-starter.vercel.app/) - GatsbyJS Starter
+- [Opuso.xyz](https://github.com/opuso-xyz) - Open Sourced todo application for CLI and web built with GraphQL and TS
 - [Bobatime](https://bobati.me/) - Social network built around Boba
 - [Tutorberry Website](https://tutorberry.vercel.app/) - Not complete, website for a nonprofit
 - [Dear Asian Youth Sac](https://dear-asian-youth-landing.vercel.app/) - Not complete, website for a nonprofit
