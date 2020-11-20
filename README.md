@@ -3,6 +3,7 @@
 I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/).
 
 - 🔭 I’m currently working on Satellitum, a product that helps robotics companies save money and time with prepackaged augmented autonomy
+  - I'm also building [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
 - ✨ My favorite hobby is trying to balance too many things in my life
 - 💻 My favorite stack right now is JAM Stack with Gatsby
 - 🌱 I’m currently learning about microservice server development and how to live on my own in college :)
@@ -28,6 +29,7 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
 
 **Some Projects I've Worked On**
+- [Inkle](https://inkle.xyz/) - Software platform to create, customize, and share Notion widgets
 - [ARCC](https://arcc.ai/) - AI and ML Education for students using the AWS DeepRacer platform
 - [ARCC League](https://league.arcc.ai/) - Project to automate physical testing of ML models
 - [ARCC Race](https://race.arcc.ai/) - Educational program for ARCC
