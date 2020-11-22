@@ -2,7 +2,7 @@
 
 I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/).
 
-- 🔭 I’m currently working on Satellitum, a product that helps robotics companies save money and time with prepackaged augmented autonomy
+- 🔭 I’m currently working on [Satellitum](http://satellitum.io/), a product that helps robotics companies save money and time with prepackaged augmented autonomy
   - I'm also building [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
 - ✨ My favorite hobby is trying to balance too many things in my life
 - 💻 My favorite stack right now is JAM Stack with Gatsby
