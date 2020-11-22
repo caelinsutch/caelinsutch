@@ -14,11 +14,11 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - ⚡ Fun fact: I love photography! My website has examples of some of my past work
 
 **Links**
-- [Personal Website](caelinsutch.com) - Portfolio of my creative work
-- [Medium](medium.com/@caelinsutch) - Social and technical commentary
-- [Blog](cometcode.io) - Tutorials and technical articles
-- [Linkedin](linkedin.com/in/caelinsutch/) - Learn more about me :)
-- [Twitter](twitter.com/caelin_sutch) - Various rants on software development and life
+- [Personal Website](https://caelinsutch.com) - Portfolio of my creative work
+- [Medium](https://medium.com/@caelinsutch) - Social and technical commentary
+- [Blog](https://cometcode.io) - Tutorials and technical articles
+- [Linkedin](https://linkedin.com/in/caelinsutch/) - Learn more about me :)
+- [Twitter](https://twitter.com/caelin_sutch) - Various rants on software development and life
 
 **Current Clubs/Projects at UC Berkeley**
 - [Underwater Robotics at Berkeley](https://urobotics.berkeley.edu/) - Underwater autononmous robotics development
