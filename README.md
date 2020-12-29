@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/) and a partner at [Cedar Startups](https://www.cedarstartups.com/)
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product development, and human-centric design. If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
 - 🔭 I’m currently working on [Kalenda](http://kalenda.io/), a platform to schedule and organize efficient team meetings. 
   - I'm also building/growing [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
