@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Carline](http://getcarline.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Carline](http://getcarline.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my background in design, full stack web development, and product management, I can lead teams to plan, build, and iterate B2B or B2C products. 
+
+If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
 - 🔭 I’m currently working on [Kalenda](http://kalenda.io/), a platform to schedule and organize efficient team meetings. 
   - I'm also building/growing [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
@@ -12,6 +14,13 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - 📫 How to reach me: caelinsutch@gmail.com or caelinsutch.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love photography and design! My website has examples of some of my past work
+
+**Skills**
+- Robotics - ROS, ROS2, Java, Python, C/C++, Linux (Tegra and Ubuntu)
+- Web/Mobile- Javacript, Typescript, React, React Native, Flutter, Angular, Gatsby, Nativescript
+- Backend - NodeJS, Express, MongoDB, MQTT, SQL, APache Kafka, GraphQL, REST
+- Devops - Docker, Git, Travis, Jenkins, Agile, Scrum, Basic AWS/Azure
+- Design - Figma, Illustrator, XD, Photoshop, Indesign- 
 
 **Links**
 - [Personal Website](https://caelinsutch.com) - Portfolio of my creative work
