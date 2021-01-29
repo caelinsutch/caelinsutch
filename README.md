@@ -5,7 +5,7 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - 🔭 I’m currently working on [Kalenda](http://kalenda.io/), a platform to schedule and organize efficient team meetings. 
   - I'm also building/growing [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
 - ✨ My favorite hobby is trying to balance too many things in my life
-- 💻 My favorite stack right now is JAM Stack with Gatsby
+- 💻 My favorite stack right now is GraphQL + NextJS
 - 🌱 I’m currently learning about microservice server development and how to live on my own in college :)
 - 👯 I’m looking to collaborate on open source projects that benefit social causes
 - 💬 Ask me about the intersection of design and robotics
@@ -21,14 +21,14 @@ I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electric
 - [Twitter](https://twitter.com/caelin_sutch) - Various rants on software development and life
 
 **Current Clubs/Projects at UC Berkeley**
-- Researcher @ [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
 - Product Manager @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
 - Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
 
 **Some Projects I've Worked On**
+- Researcher @ [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
 - Dev @ [Underwater Robotics at Berkeley](https://urobotics.berkeley.edu/) - Underwater autononmous robotics development
 - Dev @ [Robotics@Berkeley](https://rab.berkeley.edu/) - Various robotics projects
-- Project Manager @ MET Strategic Group - Business and technical Consulting 
+- Project Manager @ MET Strategic Group - Business and technical Consulting. Contracted PM at [Savitude](https://www.savitude.com/)
 - [Satellitum](https://satellitum.io) (ongoing) - Software platform to make it easier for companies to create and deploy partially autonomous robotic platforms backed by the power of augmented autonomy.
 - [Inkle](https://inkle.xyz/) - Software platform to create, customize, and share Notion widgets
 - [ARCC](https://arcc.ai/) - AI and ML Education for students using the AWS DeepRacer platform
