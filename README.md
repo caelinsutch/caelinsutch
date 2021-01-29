@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Carline](http://getcarline.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my background in design, full stack web development, and product management, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Carline](http://getcarline.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
