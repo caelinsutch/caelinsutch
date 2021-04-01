@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Carline](http://getcarline.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Playground](https://www.tryplayground.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
-- 🔭 I’m currently working on [Kalenda](http://kalenda.io/), a platform to schedule and organize efficient team meetings. 
-  - I'm also building/growing [Inkle](https://inkle.xyz), a Notion widget creator, customizer, and sharer 
+- 🔭 Looking/thinking about what to build next!
 - ✨ My favorite hobby is trying to balance too many things in my life
 - 💻 My favorite stack right now is GraphQL + NextJS
 - 🌱 I’m currently learning about microservice server development and how to live on my own in college :)
@@ -34,6 +33,8 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 - Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
 
 **Some Projects I've Worked On**
+- [Kalenda](http://kalenda.io/) - A platform to schedule and organize efficient team meetings. 
+- [Inkle](https://inkle.xyz) - A Notion widget creator, customizer, and sharer 
 - Researcher @ [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
 - Dev @ [Underwater Robotics at Berkeley](https://urobotics.berkeley.edu/) - Underwater autononmous robotics development
 - Dev @ [Robotics@Berkeley](https://rab.berkeley.edu/) - Various robotics projects
