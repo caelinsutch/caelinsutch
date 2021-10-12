@@ -2,26 +2,26 @@
 
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), software engineer at [Playground](https://www.tryplayground.com/) and a partner at [Cedar Startups](https://www.cedarstartups.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), founding [Plots](https://whatsplots.app) and a software engineer at [Playground](https://www.tryplayground.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
-- 🔭 Looking/thinking about what to build next!
-- ✨ My favorite hobby is trying to balance too many things in my life
-- 💻 My favorite stack right now is GraphQL + NextJS
-- 🌱 I’m currently learning about microservice server development and how to live on my own in college :)
+- 🔭 Building [Plots](https://whatsplots.app)
+- ✨ My favorite hobby is DJing or playing music (Jazz)
+- 💻 My favorite stack right now is GraphQL + React Native (yum)
+- 🌱 I’m currently learning GraphQL and community behavior
 - 👯 I’m looking to collaborate on open source projects that benefit social causes
-- 💬 Ask me about the intersection of design and robotics
+- 💬 Ask me about building a college web-focused consulting club (Web Dev @ Berkeley)
 - 📫 How to reach me: caelinsutch@gmail.com or caelinsutch.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love photography and design! My website has examples of some of my past work
 
 **Skills**
-- Robotics - ROS, ROS2, Java, Python, C/C++, Linux (Tegra and Ubuntu)
 - Web/Mobile- Javacript, Typescript, React, React Native, Flutter, Angular, Gatsby, Nativescript
+- Robotics - ROS, ROS2, Java, Python, C/C++, Linux (Tegra and Ubuntu)
 - Backend - NodeJS, Express, MongoDB, MQTT, SQL, APache Kafka, GraphQL, REST
 - Devops - Docker, Git, Travis, Jenkins, Agile, Scrum, Basic AWS/Azure
-- Design - Figma, Illustrator, XD, Photoshop, Indesign- 
+- Design - Figma, Illustrator, XD, Photoshop, Indesign
 
 **Links**
 - [Personal Website](https://caelinsutch.com) - Portfolio of my creative work
@@ -31,10 +31,10 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 - [Twitter](https://twitter.com/caelin_sutch) - Various rants on software development and life
 
 **Current Clubs/Projects at UC Berkeley**
-- Product Manager @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
-- Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
+- VP Product Bootcamp @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
 
 **Some Projects I've Worked On**
+- Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
 - [Kalenda](http://kalenda.io/) - A platform to schedule and organize efficient team meetings. 
 - [Inkle](https://inkle.xyz) - A Notion widget creator, customizer, and sharer 
 - Researcher @ [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
