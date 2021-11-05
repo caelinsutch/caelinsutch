@@ -1,5 +1,3 @@
-[![Caelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caelinsutch&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), founding [Plots](https://whatsplots.app) and a software engineer at [Playground](https://www.tryplayground.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
