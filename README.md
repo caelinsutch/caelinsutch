@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), founding [Plots](https://whatsplots.app) and a software engineer at [Playground](https://www.tryplayground.com/). I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), founding [Plots](https://whatsplots.app) and a software engineering contractor. I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
-- 🔭 Building [Plots](https://whatsplots.app)
+- 🔭 Building [Plots](https://whatsplots.party)
 - ✨ My favorite hobby is DJing or playing music (Jazz)
-- 💻 My favorite stack right now is GraphQL + React Native (yum)
+- 💻 My favorite stack right now is GraphQL + React Native
 - 🌱 I’m currently learning GraphQL and community behavior
 - 👯 I’m looking to collaborate on open source projects that benefit social causes
 - 💬 Ask me about building a college web-focused consulting club (Web Dev @ Berkeley)
