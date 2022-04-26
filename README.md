@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), founding [Plots](https://whatsplots.app) and a software engineering contractor. I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), working as a software engineer for various companies, and just exited my preevious startup [Plots](https://whatsplots.app).
+
+I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
