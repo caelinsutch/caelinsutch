@@ -6,7 +6,7 @@ I'm passionate about entreprenuership, product management, and human-centric des
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
-- 🔭 Building [Plots](https://plots.events)
+- 🔭 Figuring out what's next
 - ✨ My favorite hobby is DJing or playing music (Jazz)
 - 💻 My favorite stack right now is GraphQL + React Native
 - 🌱 I’m currently learning about growth hacks
@@ -33,12 +33,14 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 - VP Product Bootcamp @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
 
 **Things I've Worked On**
-- Founder @ [Plots](http://plots.events/)
-- TPM @ Tesla (for 3 days lol)
+- Founder @ [Plots](http://plots.events/), built in 2 months, scaled in 3 months to 200k+ GMV, 10k+ users on testflight
+- TPM @ [Tesla](https://tesla.com)
+- Engineering @ Passport Labs
 - Designer / Engineering @ [Yeti Finace](https://yetifinance.co/)
 - Engineer @ [Mezli](https://www.mezli.com/)
 - Engineer @ [Playground](https://tryplayground.com)
 - Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
+- Writer @ [Log Rocket](https://blog.logrocket.com/)
 - [Kalenda](http://kalenda.io/) - A platform to schedule and organize efficient team meetings. 
 - [Inkle](https://inkle.xyz) - A Notion widget creator, customizer, and sharer 
 - Researcher @ [Metrobot](https://github.com/metrobot-research) - Human Robot Interaction (HRI) research
