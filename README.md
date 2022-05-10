@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Caelin, a college student at UC Berkeley (graduating 2024) studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), working as a software engineer for various companies, and just exited my preevious startup [Plots](https://whatsplots.app).
+I'm Caelin, a college student on a gap from UC Berkeley studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), working as a software engineer for various companies, and just exited my preevious startup [Plots](https://whatsplots.app).
 
 I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
 
 If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
-- 🔭 Figuring out what's next
+- 🔭 Building something in the web3 recruiting space
 - ✨ My favorite hobby is DJing or playing music (Jazz)
 - 💻 My favorite stack right now is GraphQL + React Native
 - 🌱 I’m currently learning about growth hacks
@@ -27,12 +27,14 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 - [Medium](https://medium.com/@caelinsutch) - Tutorials and technical articles
 - [Blog](https://cometcode.io) - Tutorials and technical articles
 - [Linkedin](https://linkedin.com/in/caelinsutch/) - Learn more about me :)
-- [Twitter](https://twitter.com/caelin_sutch) - Various rants on software development and life
+- [Twitter](https://twitter.com/caelin_sutch)
 
 **Current Clubs/Projects at UC Berkeley**
-- VP Product Bootcamp @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
+- Part of [Free Ventures Accelerator](https://www.freeventures.org/)
+- President of ΣΧ
 
 **Things I've Worked On**
+- VP Product Bootcamp @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
 - Founder @ [Plots](http://plots.events/), built in 2 months, scaled in 3 months to 200k+ GMV, 10k+ users on testflight
 - TPM @ [Tesla](https://tesla.com)
 - Engineering @ Passport Labs
