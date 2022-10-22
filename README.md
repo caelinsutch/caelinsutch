@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Caelin, a college student on a gap from UC Berkeley studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/), working as a software engineer for various companies, and just exited my preevious startup [Plots](https://whatsplots.app).
+I'm Caelin, a college student on a gap from UC Berkeley studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/). Currently buildling the future of Web3 hiring over at [Passage](https://getpassage.co). Previousl worked as a software engineer and designer for various companies, and exited my preevious startup [Plots](https://whatsplots.app). 
 
 I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
-
-If you're interested, I love setting up coffee-chats with new people, you can schedule some time with me [here](https://calendly.com/caelinsutch/15min?back=1&month=2020-12).
 
 - 🔭 Building something in the web3 recruiting space
 - ✨ My favorite hobby is DJing or playing music (Jazz)
@@ -31,14 +29,14 @@ If you're interested, I love setting up coffee-chats with new people, you can sc
 
 **Current Clubs/Projects at UC Berkeley**
 - Part of [Free Ventures Accelerator](https://www.freeventures.org/)
-- President of ΣΧ
+- Fraternity President (ΣΧ)
 
 **Things I've Worked On**
 - VP Product Bootcamp @ [Webdev@Berkeley](https://webatberkeley.org/) - Web development consulting
 - Founder @ [Plots](http://plots.events/), built in 2 months, scaled in 3 months to 200k+ GMV, 10k+ users on testflight
 - TPM @ [Tesla](https://tesla.com)
 - Engineering @ Passport Labs
-- Designer / Engineering @ [Yeti Finace](https://yetifinance.co/)
+- Designer / Engineering @ [Yeti Finance](https://yetifinance.co/)
 - Engineer @ [Mezli](https://www.mezli.com/)
 - Engineer @ [Playground](https://tryplayground.com)
 - Writer @ [Haas Undergrad Blog](https://haasundergrad.wordpress.com/) - Staff writer and web consultant
