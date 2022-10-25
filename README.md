@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I'm Caelin, a college student on a gap from UC Berkeley studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/). Currently buildling the future of Web3 hiring over at [Passage](https://getpassage.co). Previousl worked as a software engineer and designer for various companies, and exited my preevious startup [Plots](https://whatsplots.app). 
-
-I'm passionate about entreprenuership, product management, and human-centric design. With my diverse background and skillset I've gained, I can lead teams to plan, build, and iterate B2B or B2C products. 
+I'm Caelin, a college student on a gap from UC Berkeley studying Electrical Engineering/Computer Science and Business in the [MET program](https://met.berkeley.edu/). Currently buildling the future of Web3 hiring over at [Passage](https://getpassage.co). Previously worked as a software engineer and designer for various companies, and exited my previous startup [Plots](https://whatsplots.app).
 
 - 🔭 Building something in the web3 recruiting space
 - ✨ My favorite hobby is DJing or playing music (Jazz)
-- 💻 My favorite stack right now is GraphQL + React Native
-- 🌱 I’m currently learning about growth hacks
-- 👯 I’m looking to collaborate on open source projects that benefit social causes
-- 📫 How to reach me: caelinsutch@gmail.com or caelinsutch.com
+- 💻 My favorite stack right now is GraphQL + NextJS
+- 📫 How to reach me: caelinsutch[at]gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love photography and design! My website has examples of some of my past work
 
@@ -28,7 +24,6 @@ I'm passionate about entreprenuership, product management, and human-centric des
 - [Twitter](https://twitter.com/caelin_sutch)
 
 **Current Clubs/Projects at UC Berkeley**
-- Part of [Free Ventures Accelerator](https://www.freeventures.org/)
 - Fraternity President (ΣΧ)
 
 **Things I've Worked On**
