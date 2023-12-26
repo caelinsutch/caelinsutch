@@ -1,6 +1,7 @@
 import rehypePrism from '@mapbox/rehype-prism'
 import nextMDX from '@next/mdx'
 import remarkGfm from 'remark-gfm'
+import "./src/env.mjs";
 
 import {withContentlayer} from "next-contentlayer";
 

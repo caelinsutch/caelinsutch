@@ -6,8 +6,8 @@ import { useRouter } from 'next/navigation'
 import { AppContext } from '@/app/providers'
 import { Container } from '@/components/Container'
 import { Prose } from '@/components/Prose'
-import { type ArticleWithSlug } from '@/lib/articles'
 import dayjs from "dayjs";
+import {Article} from "contentlayer/generated";
 
 function ArrowLeftIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
   return (
@@ -26,7 +26,7 @@ export const ArticleLayout = ({
   article,
   children,
 }: {
-  article: ArticleWithSlug
+  article: Article
   children: React.ReactNode
 }) => {
   let router = useRouter()

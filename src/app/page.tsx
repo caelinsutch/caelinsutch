@@ -16,14 +16,13 @@ import image2 from '@/images/photos/image-2.png'
 import image3 from '@/images/photos/image-3.jpeg'
 import image4 from '@/images/photos/image-4.png'
 import image5 from '@/images/photos/image-5.jpeg'
-import { type ArticleWithSlug, getAllArticles } from '@/lib/articles'
 import dayjs from "dayjs";
-import {allArticles} from "contentlayer/generated";
+import {allArticles, Article} from "contentlayer/generated";
 import {LuMail} from "react-icons/lu";
 import {SocialLinks} from "@/components/SocialLinks";
 
 
-function Article({ article }: { article: ArticleWithSlug }) {
+function Article({ article }: { article: Article }) {
   return (
     <Card as="article">
       <Card.Title href={`/articles/${article.slug}`}>
@@ -68,7 +67,7 @@ function Newsletter() {
         <p className="text-gray-500">Coming soon...</p>
       </div>
       {/*<div className="mt-6 flex">*/}
-      {/*  <input*/}
+      {/*  <input*/}ai
       {/*    type="email"*/}
       {/*    placeholder="Email address"*/}
       {/*    aria-label="Email address"*/}
