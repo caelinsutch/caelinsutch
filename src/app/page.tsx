@@ -67,7 +67,7 @@ function Newsletter() {
         <p className="text-gray-500">Coming soon...</p>
       </div>
       {/*<div className="mt-6 flex">*/}
-      {/*  <input*/}ai
+      {/*  <input*/}
       {/*    type="email"*/}
       {/*    placeholder="Email address"*/}
       {/*    aria-label="Email address"*/}
