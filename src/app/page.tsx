@@ -111,7 +111,7 @@ function Photos() {
 }
 
 export default async function Home() {
-  let articles = allArticles.slice(0, 4)
+  let articles = allArticles.sort((a, b) => dayjs(b.date).isBefore(dayjs(a.date)) ? -1 : 1).slice(0, 4)
 
   return (
     <>
