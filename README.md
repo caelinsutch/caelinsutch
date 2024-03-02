@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Caelin! Currently running [Cue](https://trycue.ai). We help teams build awesome AI-powered data experiences into their products to make analytics 10x more valuable for their customers. 
+I'm Caelin! Currently running [Cue](https://trycue.ai). We help teams turn their videos and other content into support docs and in-product onboarding experiences. 
 
 I previously built, launched, and sold a startup building a vertical software platform for nightlife ([Plots](https://whatsplots.app)). Prior, spent a lot of time contracting across various software verticals, everything from ed-tech, food robotics, and crytpo as a developer, designer, and product manager.
 
