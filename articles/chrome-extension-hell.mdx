@@ -1,0 +1,27 @@
+---
+title: Chrome Extension Hell
+date: 2024-03-13
+description: 'Agony of Chrome Extensions V3'
+---
+
+Ah, the sweet agony of Chrome Extensions V3. Like Python 3, Chrome has reminded us once again that not all upgrades feel like stepping into the future—some feel more like stepping on a Lego. Barefoot.
+
+I've been mucking my way through the poorly documented labyrinth of V3 for the past week, and let me tell you, it’s been a wild ride. The kind of wild that makes you question your life choices and wonder if you should have just become a goat farmer instead.
+
+Instead of dealing with this, I've decided to write about it (so I can avoid dealing with it for a little longer).
+
+The first thing you realize when you start building chrome extensions is the utter lack of documentation, examples, and tutorials. It’s like trying to learn to swim by being thrown into the deep end of a pool with a pair of cement shoes.
+
+The documentation that does exist is often outdated, misleading, or just plain wrong.
+
+The existence of 4 separate execution environments (service workers, pages, offscreen pages, content scripts) is a gentle reminder of the underlying crud that is chrome.
+
+Each environment has its own quirks, limitations, and rules. Service workers are like the cool kids at the party, with their access to the network and the ability to run in the background. Pages are the middle managers, with their access to the DOM and the ability to communicate with the extension. Offscreen pages are the interns, with their access to the DOM and the ability to run in the background.
+
+Want to communicate easily between these environments? Good luck! The message passing system is like trying to play telephone with a group of toddlers. You can send a message, but there’s no guarantee it will be received, and even if it is, it might be garbled beyond recognition.
+
+This means large chrome extension codebases are spaghetti messes of message passing, event listeners, and callbacks. It’s like trying to untangle a ball of yarn that’s been run over by a truck.
+
+In the end, developing a V3 Chrome Extension is akin to participating in an absurd theatre production. You know your lines, you’ve rehearsed your cues, but the director keeps changing the script, the stage is a minefield, and the audience is just a bunch of bots endlessly clapping for updates.
+
+Alas - when you need an extension to be built what’s a few (hundred) more gray hairs in the grand scheme of things?
