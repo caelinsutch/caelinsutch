@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Caelin! Currently cofounder @ [Lookbk](https://loobk.com) building software for fashion search and recommendation. 
+I'm Caelin! Currently cofounder @ [Lookbk](https://www.lookbk.com) building software for fashion search and recommendation. 
 
 I previously built, launched, and sold a startup building a vertical software platform for nightlife ([Plots](https://plots.events/)). Prior, spent a lot of time contracting across various software verticals, everything from ed-tech, food robotics, and crytpo as a developer, designer, and product manager.
 
