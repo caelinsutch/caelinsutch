@@ -16,11 +16,10 @@ import image2 from '@/images/photos/image-2.png'
 import image3 from '@/images/photos/image-3.jpeg'
 import image4 from '@/images/photos/image-4.png'
 import image5 from '@/images/photos/image-5.jpeg'
-import dayjs from "dayjs";
-import {allArticles, Article} from "contentlayer/generated";
-import {LuMail} from "react-icons/lu";
-import {SocialLinks} from "@/components/SocialLinks";
-
+import dayjs from 'dayjs'
+import { allArticles, Article } from 'contentlayer/generated'
+import { LuMail } from 'react-icons/lu'
+import { SocialLinks } from '@/components/SocialLinks'
 
 function Article({ article }: { article: Article }) {
   return (
@@ -63,7 +62,7 @@ function Newsletter() {
       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
         Get notified when I publish something new, and unsubscribe at any time.
       </p>
-      <div className="flex items-center justify-center w-full h-14 bg-gray-100 border border-gray-200 rounded-md">
+      <div className="flex h-14 w-full items-center justify-center rounded-md border border-gray-200 bg-gray-100">
         <p className="text-gray-500">Coming soon...</p>
       </div>
       {/*<div className="mt-6 flex">*/}
@@ -82,7 +81,6 @@ function Newsletter() {
   )
 }
 
-
 function Photos() {
   let rotations = ['rotate-2', '-rotate-2', 'rotate-2', 'rotate-2', '-rotate-2']
 
@@ -93,7 +91,7 @@ function Photos() {
           <div
             key={image.src}
             className={clsx(
-              'relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 dark:bg-zinc-800 sm:w-72 sm:rounded-2xl',
+              'relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800',
               rotations[imageIndex % rotations.length],
             )}
           >
@@ -111,22 +109,24 @@ function Photos() {
 }
 
 export default async function Home() {
-  let articles = allArticles.sort((a, b) => dayjs(b.date).isBefore(dayjs(a.date)) ? -1 : 1).slice(0, 4)
+  let articles = allArticles
+    .sort((a, b) => (dayjs(b.date).isBefore(dayjs(a.date)) ? -1 : 1))
+    .slice(0, 4)
 
   return (
     <>
       <Container className="mt-9">
         <div className="max-w-2xl">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
+          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
             I Build Products People ❤️.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Caelin, a software entrepreneur based in San Francisco.
-            I’m one of the cofounders at Cue AI, where we help companies add delightful AI features faster.
+            I’m Caelin, a software entrepreneur based in San Francisco. I’m one
+            of the cofounders at Lookbk where we help people find, save, and
+            shop any fashion they see.
           </p>
           <ul className="mt-6 flex gap-6">
-            <SocialLinks noText/>
-
+            <SocialLinks noText />
           </ul>
         </div>
       </Container>
@@ -138,9 +138,9 @@ export default async function Home() {
               <Article key={article.slug} article={article} />
             ))}
           </div>
-          <div className="space-y-10 lg:pl-16 xl:pl-24">
+          {/* <div className="space-y-10 lg:pl-16 xl:pl-24">
             <Newsletter />
-          </div>
+          </div> */}
         </div>
       </Container>
     </>
