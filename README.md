@@ -11,8 +11,8 @@ When not working, you'll find me training for my next marathon, DJing, and makin
 Wanna say hi? Shoot me an email - `caelin[at]lookbk.com`
 
 **Links**
+- [Newsletter](https://caelinsutch.substack.com/)
 - [Medium](https://medium.com/@caelinsutch)
-- [Blog](https://blog.caelinsutch.com)
 - [Linkedin](https://linkedin.com/in/caelinsutch/)
 - [Twitter](https://twitter.com/caelin_sutch)
 
