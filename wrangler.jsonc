@@ -12,6 +12,10 @@
 		{
 			"pattern": "caelinsutch.com",
 			"custom_domain": true
+		},
+		{
+			"pattern": "www.caelinsutch.com",
+			"custom_domain": true
 		}
 	]
 }
