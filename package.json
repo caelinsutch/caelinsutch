@@ -10,7 +10,7 @@
 		"lint": "biome check src/components src/styles/global.css src/content.config.ts",
 		"lint:fix": "biome check --write src/components src/styles/global.css src/content.config.ts",
 		"format": "biome format --write .",
-		"deploy": "bun run build && wrangler pages deploy dist --project-name caelinsutch"
+		"deploy": "bun run build && wrangler deploy"
 	},
 	"dependencies": {
 		"@astrojs/cloudflare": "^12.6.12",
