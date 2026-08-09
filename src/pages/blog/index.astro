@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { BlogIndex } from '../../components/BlogIndex';
+
+const posts = await getCollection('blog');
+const sortedPosts = posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const postsData = sortedPosts.map(post => ({
+  id: post.id,
+  data: {
+    title: post.data.title,
+    date: post.data.date,
+    description: post.data.description,
+  },
+}));
+---
+
+<Layout title="Blog — Caelin Sutch">
+  <BlogIndex posts={postsData} />
+</Layout>

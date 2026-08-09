@@ -1,50 +1,30 @@
 {
-  "name": "caelinsutch",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "browserslist": "defaults, not ie <= 11",
-  "dependencies": {
-    "@headlessui/react": "^1.7.13",
-    "@mapbox/rehype-prism": "^0.8.0",
-    "@mdx-js/loader": "^2.3.0",
-    "@mdx-js/react": "^2.3.0",
-    "@next/mdx": "13.4.16",
-    "@t3-oss/env-nextjs": "^0.7.1",
-    "@tailwindcss/typography": "^0.5.4",
-    "@types/node": "20.4.7",
-    "@types/react": "18.2.18",
-    "@types/react-dom": "18.2.7",
-    "@types/webpack-env": "^1.18.1",
-    "autoprefixer": "^10.4.12",
-    "cheerio": "^1.0.0-rc.12",
-    "clsx": "^1.2.1",
-    "contentlayer": "^0.3.4",
-    "dayjs": "^1.11.10",
-    "fast-glob": "^3.2.11",
-    "feed": "^4.2.2",
-    "next": "13.4.16",
-    "next-contentlayer": "^0.3.4",
-    "next-themes": "^0.2.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-icons": "^4.12.0",
-    "remark-gfm": "^3.0.1",
-    "tailwindcss": "^3.3.3",
-    "typescript": "5.1.6",
-    "zod": "^3.22.4"
-  },
-  "devDependencies": {
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.16",
-    "prettier": "^3.0.1",
-    "prettier-plugin-tailwindcss": "^0.5.2",
-    "sharp": "^0.32.0"
-  },
-  "packageManager": "pnpm@8.12.0+sha1.7134f9b8d0b70bc7a1954f47af52123cd2b2acce"
+	"name": "caelinsutch",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"lint": "biome check src/components src/styles/global.css src/content.config.ts",
+		"lint:fix": "biome check --write src/components src/styles/global.css src/content.config.ts",
+		"format": "biome format --write .",
+		"deploy": "bun run build && wrangler pages deploy dist --project-name caelinsutch"
+	},
+	"dependencies": {
+		"@astrojs/cloudflare": "^12.6.12",
+		"@astrojs/mdx": "^4.3.13",
+		"@astrojs/react": "^4.4.2",
+		"astro": "^5.17.1",
+		"react": "^19.2.4",
+		"react-dom": "^19.2.4"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.3.13",
+		"@tailwindcss/postcss": "^4.1.18",
+		"postcss": "^8.5.6",
+		"tailwindcss": "^4.0.0",
+		"wrangler": "^4.50.0"
+	}
 }
